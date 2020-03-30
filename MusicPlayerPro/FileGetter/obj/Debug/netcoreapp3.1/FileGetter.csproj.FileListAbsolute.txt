@@ -1,0 +1,8 @@
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\bin\Debug\netcoreapp3.1\FileGetter.deps.json
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\bin\Debug\netcoreapp3.1\FileGetter.dll
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\bin\Debug\netcoreapp3.1\FileGetter.pdb
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\obj\Debug\netcoreapp3.1\FileGetter.csprojAssemblyReference.cache
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\obj\Debug\netcoreapp3.1\FileGetter.AssemblyInfoInputs.cache
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\obj\Debug\netcoreapp3.1\FileGetter.AssemblyInfo.cs
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\obj\Debug\netcoreapp3.1\FileGetter.dll
+C:\Users\Serge\source\repos\MusicPlayerPro\FileGetter\obj\Debug\netcoreapp3.1\FileGetter.pdb

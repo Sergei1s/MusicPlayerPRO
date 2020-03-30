@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <StartupObject>UI_MusicPlayer.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="UI_Resources\pause_icon.png" />
+    <None Remove="UI_Resources\play_icon.png" />
+    <None Remove="UI_Resources\stop.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MusicPlayerPro\MusicPlayerPro.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="UI_Resources\pause_icon.png" />
+    <Resource Include="UI_Resources\play_icon.png" />
+    <Resource Include="UI_Resources\stop.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UI_MusicPlayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UI_MusicPlayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI_MusicPlayer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "UI_MusicPlayer/1.0.0": {
+      "type": "project",
+      "path": "../UI_MusicPlayer/UI_MusicPlayer.csproj",
+      "msbuildProject": "../UI_MusicPlayer/UI_MusicPlayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "UI_MusicPlayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Serge\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Serge\\source\\repos\\MusicPlayerPro\\ViewModel\\ViewModel.csproj",
+      "projectName": "ViewModel",
+      "projectPath": "C:\\Users\\Serge\\source\\repos\\MusicPlayerPro\\ViewModel\\ViewModel.csproj",
+      "packagesPath": "C:\\Users\\Serge\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Serge\\source\\repos\\MusicPlayerPro\\ViewModel\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Serge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Serge\\source\\repos\\MusicPlayerPro\\UI_MusicPlayer\\UI_MusicPlayer.csproj": {
+              "projectPath": "C:\\Users\\Serge\\source\\repos\\MusicPlayerPro\\UI_MusicPlayer\\UI_MusicPlayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

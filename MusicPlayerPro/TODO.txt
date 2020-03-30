@@ -1,0 +1,22 @@
+﻿////////_____TASK______/////////////
+1)read bout template and triggers and binding
+2) model viewmodel view MVVM
+
+
+TODO:
+
+MAIN:TRIGGERSS
+
+
+MainWindow shows smaller that it is in the disaighner
+
+HOW TO MAKE work chousing music from listbox and make it play
+
+
+
+
+/////////////////_____MAIN WORK_______//////////////////////
+
+1)Смену картинки сделаем в View(try to not use events handler)
+2)ViewModel будет передовать данные Player
+3)Player also send the data to viewModel which run logic(bussines) of View
